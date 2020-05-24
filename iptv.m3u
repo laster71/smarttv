@@ -171,8 +171,6 @@ http://91.234.24.5:8080/1plus1/index.m3u8
 http://91.234.24.5:8080/2plus2/index.m3u8
 #EXTINF:-1,ictv
 http://188.35.9.26:2051/udp/238.0.2.1:69000
-#EXTINF:-1, К1
-http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:0,НТН
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:-1,Интер
