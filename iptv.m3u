@@ -212,6 +212,18 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
 #EXTINF:-1 ,Громадське ТВ HD
 http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:0,5 Канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:0,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:0,Espresso TV
+http://api.tv.ipnet.ua:80/api/v1/manifest/2007567821.m3u8
+#EXTINF:0,Music Box RU
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:0,OTV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:0,Униан
+https://185-198-56-58.livesports24.online/uniantv.m3u8
 #EXTINF:0,Релакс
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0,Шансон ТВ
